@@ -1,0 +1,113 @@
+A Jornada de Eldoria
+
+PASSO 0 (Introdução)
+
+No reino medieval de Eldoria, um jovem aventureiro chamado Aric sonhava em se tornar um grande herói. Com seus cabelos castanhos bagunçados e olhos azuis, ele sempre usava uma túnica de couro escura e uma capa vermelha. Aric vivia na aldeia de Verdeluz, conhecida por suas flores vibrantes e fontes cristalinas, cercada por florestas e montanhas majestosas.
+
+Certa manhã, enquanto explorava uma caverna secreta, Aric encontrou um antigo mapa que revelava a localização de dois poderosos artefatos mágicos: o Coração do Dragão e a Lágrima da Fênix. Diziam que quem os possuísse teria o poder de controlar criaturas míticas. Animado com a descoberta, Aric se juntou à sua amiga Lira, uma elfa com longos cabelos dourados e habilidades mágicas, e ao robusto anão Thorn, conhecido por sua força e coragem.
+
+No caminho, o trio chegou a uma encruzilhada mágica, onde enfrentaram a primeira escolha:
+
+BOTÃO 1: Seguir para a Floresta de Cristal, lar dos dragões de gelo.
+
+BOTÃO 2: Atravessar a Caverna da Luz, onde a fênix poderia ser encontrada.
+
+
+
+---
+
+PASSO 1 (Escolha do BOTÃO 1 - Floresta de Cristal)
+
+Optando pela Floresta de Cristal, eles se depararam com árvores altas e reluzentes. Após algum tempo, um som misterioso atraiu sua atenção.
+
+BOTÃO 3: Investigar o som vindo de uma clareira.
+
+BOTÃO 4: Ignorar o som e continuar em frente.
+
+
+
+---
+
+PASSO 2 (Escolha do BOTÃO 2 - Caverna da Luz)
+
+Aric e seus amigos escolheram atravessar a Caverna da Luz. Ao entrarem, foram cercados por fadas curiosas, cuja luz suave iluminava o caminho.
+
+BOTÃO 5: Tentar se comunicar com as fadas para obter ajuda.
+
+BOTÃO 6: Ignorar as fadas e seguir em frente.
+
+
+
+---
+
+PASSO 3 (Escolha do BOTÃO 3 - Som Misterioso)
+
+Investigando o som, Aric e os amigos descobriram um dragão de gelo adormecido, coberto de cristais brilhantes. Lira sugeriu que tentassem domá-lo.
+
+BOTÃO 9: Acordar o dragão com magia.
+
+BOTÃO 10: Falar com ele calmamente e oferecer amizade.
+
+
+
+---
+
+PASSO 4 (Escolha do BOTÃO 4 - Ignorar o Som)
+
+Ao ignorar o som, o grupo avançou e encontrou um templo antigo, onde conseguiram o Coração do Dragão ao desativar armadilhas.
+
+
+---
+
+PASSO 5 (Escolha do BOTÃO 5 - Comunicar com as Fadas)
+
+Aric decidiu conversar com as fadas, que se mostraram amigáveis e ofereceram um feitiço que os guiaria até a Lágrima da Fênix.
+
+BOTÃO 7: Aceitar o feitiço e seguir as fadas.
+
+BOTÃO 8: Agradecer às fadas e continuar por conta própria.
+
+
+
+---
+
+PASSO 6 (Escolha do BOTÃO 6 - Ignorar as Fadas)
+
+Ignorando as fadas, o grupo avançou pela caverna, mas um deslizamento de pedras os prendeu em uma parte escura e sem saída.
+
+
+---
+
+PASSO 7 (Escolha do BOTÃO 7 - Aceitar o Feitiço)
+
+Aceitando o feitiço das fadas, eles foram levados a um lago sagrado, onde encontraram a Lágrima da Fênix flutuando, e conseguiram pegá-la.
+
+
+---
+
+PASSO 8 (Volta para o PASSO 1)
+
+Com os artefatos em mãos, o grupo retornou à encruzilhada, agora mais confiantes.
+
+BOTÃO 1: Seguir para a Floresta de Cristal.
+
+BOTÃO 2: Atravessar a Caverna da Luz.
+
+
+
+---
+
+PASSO 9 (Escolha do BOTÃO 1 - Floresta de Cristal)
+
+Escolhendo a Floresta de Cristal novamente, Aric despertou o dragão e formou uma poderosa aliança. Com isso, retornaram vitoriosos à aldeia.
+
+Ganhou!
+
+
+---
+
+PASSO 10 (Escolha do BOTÃO 2 - Caverna da Luz)
+
+Ao optar pela Caverna da Luz, enfrentaram um espírito maligno que os derrotou, forçando-os a recuar.
+
+Perdeu!
